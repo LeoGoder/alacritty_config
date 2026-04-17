@@ -1,11 +1,15 @@
 [window]
-decorations = "none"
+decorations = "Full"
 opacity = 0.80
-#blur = true
+dynamic_title = true
+decorations_theme_variant = "Dark"
 
 [font]
-normal = { family = "JetBrainsMono Nerd Font Mono", style = "Regular" }
-bold = { family = "JetBrainsMono Nerd Font Mono", style = "Bold" }
-italic = { family = "JetBrainsMono Nerd Font Mono", style = "Italic" }
-bold_italic = { family = "JetBrainsMono Nerd Font Mono", style = "Bold Italic" }
+normal = { family = "0xProto Nerd Font Mono", style = "Regular" }
+bold = { family = "0xProto Nerd Font Mono", style = "Bold" }
+italic = { family = "0xProto Nerd Font Mono", style = "Italic" }
+bold_italic = { family = "0xProto Nerd Font Mono", style = "Bold Italic" }
 size = 12
+
+[colors.primary]
+background = '#1a1b26'
