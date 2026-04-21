@@ -1,6 +1,6 @@
 [window]
 decorations = "Full"
-opacity = 0.80
+opacity = 1.00
 dynamic_title = true
 decorations_theme_variant = "Dark"
 
