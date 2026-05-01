@@ -10,10 +10,16 @@ decorations_theme_variant = "Dark"
 #italic = { family = "0xProto Nerd Font Mono", style = "Italic" }
 #bold_italic = { family = "0xProto Nerd Font Mono", style = "Bold Italic" }
 # MONOCRAFT font style
-normal = { family = "Monocraft", style = "Regular" }
-bold = { family = "Monocraft", style = "Bold" }
-italic = { family = "Monocraft", style = "Italic" }
-bold_italic = { family = "Monocraft", style = "Bold Italic" }
+#normal = { family = "Monocraft", style = "Regular" }
+#bold = { family = "Monocraft", style = "Bold" }
+#italic = { family = "Monocraft", style = "Italic" }
+#bold_italic = { family = "Monocraft", style = "Bold Italic" }
+# departure font style
+normal = { family = "DepartureMono Nerd Font Mono", style = "Regular" }
+bold = { family = "DepartureMono Nerd Font Mono", style = "Bold" }
+italic = { family = "DepartureMono Nerd Font Mono", style = "Italic" }
+bold_italic = { family = "DepartureMono Nerd Font Mono", style = "Bold Italic" }
+
 size = 12
 
 [colors.primary]
