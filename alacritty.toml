@@ -6,6 +6,9 @@ general.import = [
   "catppuccin-mocha.toml"
 ]
 
+# "JetBrainsMono Nerd Font"
+# "0xProto Nerd Font Mono"
+
 
 [window]
 decorations = "Full"
@@ -15,19 +18,19 @@ decorations_theme_variant = "Dark"
 
 [font]
 [font.normal]
-family = "JetBrainsMono Nerd Font"
+family = "0xProto Nerd Font Mono"
 style = "Regular"
 
 [font.bold]
-family = "JetBrainsMono Nerd Font"
+family = "0xProto Nerd Font Mono"
 style = "Bold"
 
 [font.italic]
-family = "JetBrainsMono Nerd Font"
+family = "0xProto Nerd Font Mono"
 style = "Italic"
 
 [font.bold_italic]
-family = "JetBrainsMono Nerd Font"
+family = "0xProto Nerd Font Mono"
 style = "Bold Italic"
 
 # [colors.primary]
