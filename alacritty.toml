@@ -9,7 +9,7 @@ general.import = [
 
 [window]
 decorations = "Full"
-opacity = 0.90
+opacity = 1.00
 # blur = true
 decorations_theme_variant = "Dark"
 
