@@ -9,11 +9,9 @@ general.import = [
 # "JetBrainsMono Nerd Font"
 # "0xProto Nerd Font Mono"
 
-
 [window]
 decorations = "Full"
-opacity = 0.80
-# blur = true
+opacity = 0.85
 decorations_theme_variant = "Dark"
 
 [font]
@@ -32,9 +30,6 @@ style = "Italic"
 [font.bold_italic]
 family = "0xProto Nerd Font Mono"
 style = "Bold Italic"
-
-# [colors.primary]
-# background = '#1a1b26'
 
 [cursor]
 style = { shape = "Block", blinking = "On" }
